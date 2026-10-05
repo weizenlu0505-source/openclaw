@@ -1,0 +1,12 @@
+{
+  "name": "openclaw-ai-bot",
+  "version": "1.0.0",
+  "description": "OpenClaw AI Assistant",
+  "scripts": {
+    "start": "openclaw gateway start",
+    "setup": "openclaw onboard"
+  },
+  "dependencies": {
+    "openclaw": "latest"
+  }
+}
